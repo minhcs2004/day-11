@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{EB455D8C-0A5B-36ED-85D0-624B5D1DA0AE}</ProjectGuid>
+    <ProjectGuid>{52001C0D-BFCE-56EB-C935-EC618B0B84F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -79,6 +79,7 @@
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\maanetorn\Farm Game UI - Simple 2D UI\Script\CustomButton.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
@@ -92,7 +93,11 @@
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\_assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\maanetorn\Farm Game UI - Simple 2D UI\Script\CustomButton.cs" />
+    <Compile Include="Assets\_assets\script\test.cs" />
+    <Compile Include="Assets\_assets\script\level buttons\levelButton.cs" />
+    <Compile Include="Assets\_assets\script\levelCompleted\sence2.cs" />
+    <Compile Include="Assets\_assets\script\rewards\scene3.cs" />
+    <Compile Include="Assets\_assets\script\jumscare.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\_assets\TextMesh Pro\Shaders\TMPro.cginc" />
