@@ -11,7 +11,7 @@ public class test : MonoBehaviour
 
     public void onbuttonclick()
     {
-        Debug.Log("nhu con cac");
+        Debug.Log("button clicked");
     }
 
 
